@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf686880-9ef8-47ad-8b4b-e070872377be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5_collection 2/DictinaryDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5_collection 2/setDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7_Oops/opps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 1 python/datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 1 python/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 1 python/variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 2 Assignment/PoNeNUM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 2/Concatenation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 2/conditionalStatements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 2/deletingvariable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 2/formatingoutput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 2/operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 2/takingInputFromUser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_loopstatements_strings/forLoopDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_loopstatements_strings/jumpingStatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_loopstatements_strings/numberFuctionDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_loopstatements_strings/rangeFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_loopstatements_strings/stringsDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_loopstatements_strings/whileLoopDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_collections/ListDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_collections/TupleDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_Functions_Arg/Global&amp;LocalVariables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_Functions_Arg/TypesofArguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_Functions_Arg/functions.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2bUgUary0UTuy3D12U2c3wiwE5v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Concatenation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DictinaryDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Global&amp;LocalVariables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PoNeNUM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TupleDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TypesofArguments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditionalStatements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.deletingvariable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.forLoopDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.formatingoutput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jumpingStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.keywords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numberFuctionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rangeFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.setDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stringsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.takingInputFromUser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whileLoopDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\santo\PycharmProjects\pythonProject\day 1 python" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="keywords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\santo\PycharmProjects\pythonProject\day 1 python\keywords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\santo\PycharmProjects\pythonProject\day 1 python\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.keywords" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf686880-9ef8-47ad-8b4b-e070872377be" name="Changes" comment="" />
+      <created>1706275087951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706275087951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day 1 python/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
