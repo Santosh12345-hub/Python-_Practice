@@ -18,3 +18,9 @@ if __name__ == '__main__':
 a="santosh"
 
 print(a[::-1]) #hsotnas
+
+def find_week_num(week_name):
+    week = ("Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","sunday")
+    print(week.index(week_name))
+
+find_week_num("Tuesday")

@@ -4,37 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf686880-9ef8-47ad-8b4b-e070872377be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5_collection 2/DictinaryDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5_collection 2/setDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7_Oops/opps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 1 python/datatypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 1 python/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 1 python/variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 2 Assignment/PoNeNUM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 2/Concatenation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 2/conditionalStatements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 2/deletingvariable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 2/formatingoutput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 2/operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 2/takingInputFromUser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_loopstatements_strings/forLoopDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_loopstatements_strings/jumpingStatement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_loopstatements_strings/numberFuctionDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_loopstatements_strings/rangeFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_loopstatements_strings/stringsDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_loopstatements_strings/whileLoopDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4_collections/ListDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4_collections/TupleDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6_Functions_Arg/Global&amp;LocalVariables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6_Functions_Arg/TypesofArguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6_Functions_Arg/functions.py" afterDir="false" />
+    <list default="true" id="bf686880-9ef8-47ad-8b4b-e070872377be" name="Changes" comment="Day2 code">
+      <change afterPath="$PROJECT_DIR$/Day10_ExceptionHandling/HandlingFils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10_ExceptionHandling/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8_Inheritance/IneritanceExa2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8_Inheritance/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8_Inheritance/overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_2/pack1/emp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_2/pack2/stu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_2/pack3_client/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/Calculator_Module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/Day9_1_Packages/Pack1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/Day9_1_Packages/Pack1/module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/Day9_1_Packages/Pack1/module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/Day9_1_Packages/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/Day9_1_Packages/client2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/Day9_1_Packages/package1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/Day9_1_Packages/package1/module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/Day9_1_Packages/package1/package2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/Day9_1_Packages/package1/package2/module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/Opertions_Module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/ex2_Animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/ex2_bird.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/ex2_bird_animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/ex3_class_m1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/ex3_class_m1m2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Module_Package/ex3_class_m2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/List/FOR and IN' loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/List/NormalProg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/List/declaringAndPrinting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/String operators/Escape Sequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/String operators/add_2_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/String operators/compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/String operators/find _sub_string_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/String operators/findlength.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/String operators/fstring_stringformating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/String operators/iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/String operators/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day7_Oops/opps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day7_Oops/opps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 1 python/keywords.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 1 python/keywords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 1 python/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 1 python/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,32 +65,56 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2bUgUary0UTuy3D12U2c3wiwE5v" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Calculator_Module.executor&quot;: &quot;Run&quot;,
     &quot;Python.Concatenation.executor&quot;: &quot;Run&quot;,
     &quot;Python.DictinaryDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Escape Sequences.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FOR and IN' loop.executor&quot;: &quot;Run&quot;,
     &quot;Python.Global&amp;LocalVariables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingFils.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IneritanceExa2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
     &quot;Python.ListDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NormalProg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Opertions_Module2.executor&quot;: &quot;Run&quot;,
     &quot;Python.PoNeNUM.executor&quot;: &quot;Run&quot;,
     &quot;Python.Test.executor&quot;: &quot;Run&quot;,
     &quot;Python.TupleDemo.executor&quot;: &quot;Run&quot;,
     &quot;Python.TypesofArguments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_2_String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.compare.executor&quot;: &quot;Run&quot;,
     &quot;Python.conditionalStatements.executor&quot;: &quot;Run&quot;,
     &quot;Python.datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.declaringAndPrinting.executor&quot;: &quot;Run&quot;,
     &quot;Python.deletingvariable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex2_bird_animal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex3_class_m1m2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find _sub_string_in.executor&quot;: &quot;Run&quot;,
+    &quot;Python.findlength.executor&quot;: &quot;Run&quot;,
     &quot;Python.forLoopDemo.executor&quot;: &quot;Run&quot;,
     &quot;Python.formatingoutput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fstring_stringformating.executor&quot;: &quot;Run&quot;,
     &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iterator.executor&quot;: &quot;Run&quot;,
     &quot;Python.jumpingStatement.executor&quot;: &quot;Run&quot;,
     &quot;Python.keywords.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.numberFuctionDemo.executor&quot;: &quot;Run&quot;,
     &quot;Python.operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.opps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
     &quot;Python.rangeFunction.executor&quot;: &quot;Run&quot;,
     &quot;Python.setDemo.executor&quot;: &quot;Run&quot;,
     &quot;Python.stringsDemo.executor&quot;: &quot;Run&quot;,
@@ -90,15 +124,111 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/santo/PycharmProjects/pythonProject/Day9_Module_Package/Day9_1_Packages/package1/package2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\santo\PycharmProjects\pythonProject\Day9_Module_Package\Day9_1_Packages\package1\package2" />
+      <recent name="C:\Users\santo\PycharmProjects\pythonProject\Day9_Module_Package\Day9_1_Packages\package1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\santo\PycharmProjects\pythonProject\Day9_2\pack3_client" />
+      <recent name="C:\Users\santo\PycharmProjects\pythonProject\Day9_Module_Package\Day9_1_Packages" />
+      <recent name="C:\Users\santo\PycharmProjects\pythonProject\Day8_Inheritance" />
       <recent name="C:\Users\santo\PycharmProjects\pythonProject\day 1 python" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Opertions_Module2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day9_Module_Package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day9_Module_Package/Opertions_Module2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day9_Module_Package/Day9_1_Packages/Pack1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\santo\PycharmProjects\pythonProject\Day9_Module_Package\Day9_1_Packages\client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2_bird_animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day9_Module_Package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day9_Module_Package/ex2_bird_animal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex3_class_m1m2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day9_Module_Package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day9_Module_Package/ex3_class_m1m2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="keywords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -145,6 +275,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.ex3_class_m1m2" />
+        <item itemvalue="Python.ex2_bird_animal" />
+        <item itemvalue="Python.Opertions_Module2" />
         <item itemvalue="Python.keywords" />
       </list>
     </recent_temporary>
@@ -152,7 +286,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -165,7 +299,51 @@
       <option name="presentableId" value="Default" />
       <updated>1706275087951</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day2 code">
+      <option name="closed" value="true" />
+      <created>1707397981249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707397981249</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day2 code">
+      <option name="closed" value="true" />
+      <created>1707398000991</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707398000991</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day2 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day2 code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

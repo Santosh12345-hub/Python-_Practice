@@ -8,3 +8,5 @@ print(keyword.kwlist) # This will print all availabe keywords in python
  'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in',
  'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
 
+# Write a program to print the given number is odd or even.
+
